@@ -1,0 +1,46 @@
+/* .scroll {
+    display:block;
+    border: 1px solid red;
+    padding:5px;
+    margin-top:5px;
+    width:300px;
+    height:50px;
+    overflow:scroll;
+ } */
+ .auto {
+    display:block;
+    /* border: 1px solid red; */
+    padding:5px;
+    margin-top:5px;
+    width:300px;
+    height:50px;
+    
+    overflow:auto;
+
+    margin-left: 30px;
+	float: left;
+	height: 300px;
+	width: 65px;
+	background: #F5F5F5;
+	overflow-y: scroll;
+	margin-bottom: 25px;
+ }
+ .scrollbar
+{
+	margin-left: 30px;
+	float: left;
+	height: 300px;
+	width: 65px;
+	background: #F5F5F5;
+	overflow-y: scroll;
+	margin-bottom: 25px;
+}
+
+.ul {
+    background-color: lightblue;
+  width: 394px;
+  height: 690px;
+  overflow: scroll;
+  }
+
+  
